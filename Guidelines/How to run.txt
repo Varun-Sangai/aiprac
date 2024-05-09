@@ -1,0 +1,3 @@
+1. Save the program in a file, for example, sum.pl.
+2. Load the program into Prolog.
+3. Query the function of code e.g., sum/3 predicate with two numbers to get their sum.
